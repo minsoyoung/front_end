@@ -1,0 +1,49 @@
+.wrap{
+  width: 980px;
+  margin:0 auto;
+}
+
+.header{
+  width: 980px;
+  height: 100px;
+  background-color: cornflowerblue;
+}
+
+.left{
+  width: 380px;
+  height: 600px;
+  float: left;
+}
+
+.left1{
+  width: 380px;
+  height: 150px;
+  background-color: darkorange;
+}
+
+.left2{
+  width: 380px;
+  height: 450px;
+  background-color: darkseagreen;
+}
+
+.right{
+  width: 600px;
+  height: 600px;
+  background-color: skyblue;
+  float: right;
+}
+
+.foot{
+  width: 980px;
+  height: 200px;
+  background-color: pink;
+  float: right;
+}
+
+.footer{
+  width: 980px;
+  height: 20px;
+  background-color: violet;
+  clear: both;
+}

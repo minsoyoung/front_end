@@ -1,0 +1,57 @@
+.wrap{
+  width: 980px;
+  margin:0 auto;
+}
+
+.header{
+  width: 980px;
+  height: 280px;
+  background-color: pink;
+}
+
+.left{
+  width: 630px;
+  height: 700px;
+  float: left;
+}
+
+.left1{
+  width: 315px;
+  height: 700px;
+  background-color: aquamarine;
+  float: left;
+}
+
+.left2{
+  width: 315px;
+  height: 700px;
+  background-color: skyblue;
+  float: right;
+}
+
+.right{
+  width: 350px;
+  height: 700px;
+  float: right;
+}
+
+.right1{
+  width: 350px;
+  height: 350px;
+  background-color: bisque;
+  float: right;
+}
+
+.right2{
+  width: 350px;
+  height: 350px;
+  background-color: chartreuse;
+  float: right;
+}
+
+.footer{
+  width: 980px;
+  height: 20px;
+  background-color: white;
+  clear: both;
+}

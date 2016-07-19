@@ -1,0 +1,58 @@
+.wrap{
+  width: 980px;
+  margin:0 auto;
+}
+
+.left{
+  width: 360px;
+  height: 720px;
+  float: left;
+}
+
+.left1{
+  width: 180px;
+  height: 600px;
+  background-color: antiquewhite;
+  float: left;
+}
+
+.left2{
+  width: 180px;
+  height: 600px;
+  background-color: aquamarine;
+  float: right;
+}
+
+.left3{
+  width: 360px;
+  height: 120px;
+  background-color: lightblue;
+  float: left;
+}
+
+.center{
+  width: 400px;
+  height: 720px;
+  background-color: springgreen;
+  float: left;
+}
+
+.right{
+  width: 220px;
+  height: 720px;
+  float: right;
+}
+
+.right1{
+  width: 220px;
+  height: 600px;
+  background-color: burlywood;
+  float: right;
+}
+
+.right2{
+  width: 220px;
+  height: 120px;
+  background-color: peachpuff;
+  float: right;
+}
