@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc14e4d8-29d1-4129-999c-b40c38438ba9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/webpage/js/gnb.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/webpage/css/baskin2.css" afterPath="$PROJECT_DIR$/class/webpage/css/baskin2.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/webpage/baskin2.html" afterPath="$PROJECT_DIR$/class/webpage/baskin2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/webpage/js/gnb.js" afterPath="$PROJECT_DIR$/class/webpage/js/gnb.js" />
     </list>
     <ignored path="front_end.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,24 +24,28 @@
     <favorites_list name="front_end" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.61302084">
+    <splitter split-orientation="horizontal" split-proportion="0.56277055">
       <split-first>
         <leaf>
-          <file leaf-file-name="baskin2.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="baskin2.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/class/webpage/baskin2.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-5.818182">
-                  <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-                  <folding />
+                <state vertical-scroll-proportion="0.48758465">
+                  <caret line="143" column="10" selection-start-line="143" selection-start-column="10" selection-end-line="143" selection-end-column="10" />
+                  <folding>
+                    <element signature="n#header#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#ul#0;n#div#0;n#nav#0;n#div#1;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#ul#1;n#div#0;n#nav#0;n#div#1;n#html#0;n#!!top" expanded="false" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="gnb.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="gnb.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/class/webpage/js/gnb.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.32142857">
-                  <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
                   <folding>
                     <element signature="e#0#43#0" expanded="false" />
                   </folding>
@@ -57,8 +60,8 @@
           <file leaf-file-name="baskin2.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/class/webpage/css/baskin2.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="2.044643">
-                  <caret line="203" column="16" selection-start-line="203" selection-start-column="16" selection-end-line="203" selection-end-column="16" />
+                <state vertical-scroll-proportion="0.6343852">
+                  <caret line="224" column="13" selection-start-line="224" selection-start-column="13" selection-end-line="224" selection-end-column="13" />
                   <folding />
                 </state>
               </provider>
@@ -111,9 +114,9 @@
         <option value="$PROJECT_DIR$/class/css/practice/layout7.css" />
         <option value="$PROJECT_DIR$/class/html/practice/baskin.html" />
         <option value="$PROJECT_DIR$/class/webpage/css/reset.css" />
-        <option value="$PROJECT_DIR$/class/webpage/baskin2.html" />
-        <option value="$PROJECT_DIR$/class/webpage/css/baskin2.css" />
         <option value="$PROJECT_DIR$/class/webpage/js/gnb.js" />
+        <option value="$PROJECT_DIR$/class/webpage/css/baskin2.css" />
+        <option value="$PROJECT_DIR$/class/webpage/baskin2.html" />
       </list>
     </option>
   </component>
@@ -153,7 +156,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -269,6 +271,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -356,10 +359,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15806112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1578125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -751,28 +754,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class/webpage/baskin2.html">
+    <entry file="file://$PROJECT_DIR$/class/webpage/js/gnb.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.818182">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class/webpage/css/baskin2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.044643">
-          <caret line="203" column="16" selection-start-line="203" selection-start-column="16" selection-end-line="203" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.6343852">
+          <caret line="224" column="13" selection-start-line="224" selection-start-column="13" selection-end-line="224" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class/webpage/js/gnb.js">
+    <entry file="file://$PROJECT_DIR$/class/webpage/baskin2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32142857">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.48758465">
+          <caret line="143" column="10" selection-start-line="143" selection-start-column="10" selection-end-line="143" selection-end-column="10" />
           <folding>
-            <element signature="e#0#43#0" expanded="false" />
+            <element signature="n#header#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#nav#0;n#div#1;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#1;n#div#0;n#nav#0;n#div#1;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
