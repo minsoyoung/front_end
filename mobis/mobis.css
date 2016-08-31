@@ -284,12 +284,10 @@
   background: url('/common/images/icon/grayTop20x2_bar.gif') no-repeat 0 0;
 }
 
-}
 
 .date{
   margin-top: 15px;
   display: block;
-
 }
 
 .text{
@@ -317,3 +315,30 @@
   clear: both;
 }
 
+.box_ul{
+
+}
+
+.box1{
+  display: block;
+  width: 190px;
+  height: 255px;
+}
+
+.box2{
+  display: block;
+  width: 190px;
+  height: 255px;
+}
+
+.box3{
+  display: block;
+  width: 190px;
+  height: 255px;
+}
+
+.box4{
+  display: block;
+  width: 190px;
+  height: 255px;
+}
